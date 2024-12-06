@@ -7,3 +7,4 @@ nav:
   - Overview: overview.md
   - About: about.md
   - Glossary: glossary.md
+  - API Reference: dist/index.html
